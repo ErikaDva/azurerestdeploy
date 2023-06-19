@@ -1,7 +1,7 @@
 #%% packages
 # run once !pip install flask
 # !set FLASK_APP=app.py
-from flask import Flask, request, jsonify
+from flask import Flask, request
 import json
 # import requests
 # from model_class import MultiClassNet
